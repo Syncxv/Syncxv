@@ -12,8 +12,7 @@
 <br > -->
 
 <h3 align="center">Contact Me: </h3>
-<p align="center"> Discord: Aria#8171 </p>
-
+<p align="center"> https://aria-gang.netlify.app/ </p>
 <br >
 <br >
 
