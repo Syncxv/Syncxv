@@ -15,8 +15,6 @@ jobs:
                   token: ${{ secrets.METRICS_TOKEN }}
                   user: Syncxv
                   commits_authoring: Syncxv
-                  template: classic
-                  config_display: columns
                   plugin_languages: yes
                   plugin_languages_ignored: >-
                       html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
