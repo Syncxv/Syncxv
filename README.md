@@ -24,4 +24,4 @@
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Syncxv&" alt="Syncxv" /></p> -->
 
-<img align="center" src="https://raw.githubusercontent.com/Syncxv/Syncxv/master/github-metrics.svg" />
+<img align="center" src="https://raw.githubusercontent.com/Syncxv/Syncxv/master/github-metrics.svg" width="100%" />
