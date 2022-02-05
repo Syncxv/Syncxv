@@ -1,5 +1,10 @@
 name: Recently used
 uses: lowlighter/metrics@latest
+on:
+    # (optional) Run workflow manually
+    workflow_dispatch:
+    # (optional) Run workflow when pushing on master/main
+    push: { branches: ["master", "main"] }
 with:
     filename: metrics.plugin.languages.recent.svg
     token: ${{ secrets.METRICS_TOKEN }}
