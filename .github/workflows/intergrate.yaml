@@ -21,6 +21,7 @@ jobs:
                       gnuplot
                   plugin_languages_indepth: yes
                   plugin_languages_details: lines, bytes-size
-                  plugin_languages_limit: 4
+                  plugin_languages_limit: 16
                   plugin_languages_analysis_timeout: 15
+                  repositories_skipped: browsercord-extention
 ## WHY DIDNT IT WORK and shesh i feel dajavu
