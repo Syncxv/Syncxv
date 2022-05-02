@@ -34,5 +34,5 @@ jobs:
                   plugin_languages_recent_load: 300
                   plugin_languages_sections: most-used
                   plugin_languages_threshold: 0%
-                  plugin_activity_skipped: browsercord-extention, free-stickers, music-player-flutter
+                  plugin_activity_skipped: browsercord-extention, free-stickers, music-player-flutter, imgui_testing
 ## WHY DIDNT IT WORK and shesh i feel dajavu
