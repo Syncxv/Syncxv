@@ -26,7 +26,8 @@ jobs:
                   plugin_languages_categories: markup, programming
                   plugin_languages_ignored: >-
                       html, css, javascript, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, 
-                      gnuplot, browsercord-extention, free-stickers, music-player-flutter, imgui_testing
+                      gnuplot
+                  plugin_languages_skipped:  browsercord-extention, free-stickers, music-player-flutter, imgui_testing
                   plugin_languages_colors: github
                   plugin_languages_limit: 16
                   plugin_languages_recent_categories: markup, programming
