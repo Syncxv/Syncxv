@@ -11,8 +11,8 @@
 <br >
 <br > -->
 
-<h3 align="center">Contact Me: </h3>
-<p align="center"> https://aria-gang.netlify.app/ </p>
+<h3 align="center">Portfolio: </h3>
+<p align="center"> https://aruldev-portfolio.netlify.app/ </p>
 <br >
 <br >
 
