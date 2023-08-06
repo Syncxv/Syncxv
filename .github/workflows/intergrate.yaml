@@ -31,10 +31,10 @@ jobs:
                       gnuplot
                   plugin_languages_skipped:  browsercord-extention, free-stickers, music-player-flutter, backups, imgui_testing, dumps, spotify-thing, stuff, lua-stuff, FrameWarHEHEHE, utility-extention
                   plugin_languages_colors: github
-                  plugin_languages_limit: 24
+                  plugin_languages_limit: 20
                   plugin_languages_recent_categories: markup, programming
                   plugin_languages_recent_days: 14
                   plugin_languages_recent_load: 300
                   plugin_languages_sections: most-used
-                  plugin_languages_threshold: 0%
+                  plugin_languages_threshold: 50%
 ## WHY DIDNT IT WORK and shesh i feel dajavu
