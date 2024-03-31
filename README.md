@@ -12,7 +12,7 @@
 <br > -->
 
 <h3 align="center">Portfolio: </h3>
-<p align="center"> https://aruldev-portfolio.netlify.app/ </p>
+<p align="center"> <a href="https://daveyy.net">daveyy.net</a> </p>
 <br >
 <br >
 
